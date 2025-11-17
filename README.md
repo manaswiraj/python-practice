@@ -1,4 +1,4 @@
-#python practice
+#Python practice
 
 This repository contains my Python practice programs 
 as I learn programming fundamentals, logic building, 
